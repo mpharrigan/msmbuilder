@@ -2,7 +2,7 @@ from __future__ import print_function, absolute_import, division
 
 import logging
 
-from baseclasses import Vectorized
+from .baseclasses import Vectorized
 import mdtraj as md
 import numpy as np
 
